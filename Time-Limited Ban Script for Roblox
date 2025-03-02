@@ -1,7 +1,7 @@
--- Time-Limited Ban Script for Roblox
+happymod script ban for 67 days-- Time-Limited Ban Script for Roblox
 local playerToBan = "PlayerName"  -- Replace PlayerName with the username of the player to ban
 local banDuration = 3600  -- Ban duration in seconds (e.g., 3600 seconds = 1 hour)
-
+exploring using happymod fly auto and teleport ban for 67 days for reason 
 game.Players[playerToBan]:Kick("You have been banned for 1 hour.")
-wait(banDuration)
+wait(banDuration)https://www.roblox.com/users/8076238306/profile?friendshipSourceType=PlayerSearch
 game.Players[playerToBan]:Kick("Your ban has been lifted.")
