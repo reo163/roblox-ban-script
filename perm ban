@@ -1,5 +1,5 @@
 - Permanent Ban Script for Roblox
 local playerToBan = "PlayerName"  -- Replace PlayerName with the username of the player to ban
-
+https://www.roblox.com/users/4286466923/profile
 game.Players[playerToBan]:Kick("You have been permanently banned from the game.")
 game.Players[playerToBan]:Destroy()
